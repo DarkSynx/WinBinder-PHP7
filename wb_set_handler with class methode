@@ -1,0 +1,4 @@
+ wb_set_handler with class methode, as listview color handler
+
+wb_set_handler(window, array($this, <methode name>))  use a class methode
+wb_set_handler(listview ctrl, array($this, <methode name>)) change color dynamically
